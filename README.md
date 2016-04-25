@@ -1,6 +1,6 @@
-# MOMENT-IMPORT
+# FAKER-IMPORT
 
-Reference the moment library using html imports.
+Reference the faker library using html imports.
 
 
 
@@ -8,14 +8,14 @@ Reference the moment library using html imports.
 
 ``` bash
 
-bower install moment-import --save
+bower install faker-import --save
 
 ```
 
 ## Usage
 
 ```html
-<link rel="import" href="bower_components/moment-import/moment.html">
+<link rel="import" href="bower_components/faker-import/faker.html">
 
 
 ```
