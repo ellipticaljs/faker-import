@@ -1,7 +1,7 @@
 # FAKER-IMPORT
 
-Reference the fakerjs library using html imports.
 
+Reference the fakerjs library using html imports.
 
 
 ## Installation
